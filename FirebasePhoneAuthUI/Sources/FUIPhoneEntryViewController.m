@@ -16,10 +16,7 @@
 
 #import "FirebasePhoneAuthUI/Sources/FUIPhoneEntryViewController.h"
 
-#import <FirebaseAuth/FirebaseAuth.h>
-#import <FirebaseAuth/FIRAuthUIDelegate.h>
-#import <FirebaseAuth/FIRPhoneAuthProvider.h>
-#import <FirebaseAuthUI/FirebaseAuthUI.h>
+@import FirebaseAuthUI;
 
 #import "FirebasePhoneAuthUI/Sources/Public/FirebasePhoneAuthUI/FUIPhoneAuth.h"
 #import "FirebasePhoneAuthUI/Sources/FUICountryTableViewController.h"
