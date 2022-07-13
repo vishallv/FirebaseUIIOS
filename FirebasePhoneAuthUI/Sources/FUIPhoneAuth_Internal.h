@@ -16,7 +16,7 @@
 
 #import "FirebasePhoneAuthUI/Sources/Public/FirebasePhoneAuthUI/FUIPhoneAuth.h"
 
-#import FirebaseAuthUI;
+@import FirebaseAuthUI;
 
 NS_ASSUME_NONNULL_BEGIN
 
